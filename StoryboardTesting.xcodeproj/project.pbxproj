@@ -52,7 +52,6 @@
 		8DB31BF72A6FF61A0090E6CE = {
 			isa = PBXGroup;
 			children = (
-				8DB31C232A6FF8F30090E6CE /* vc3.storyboard */,
 				8DB31C022A6FF61A0090E6CE /* StoryboardTesting */,
 				8DB31C012A6FF61A0090E6CE /* Products */,
 			);
@@ -75,6 +74,7 @@
 				8DB31C052A6FF61B0090E6CE /* SceneDelegate.swift */,
 				8DB31C1D2A6FF7B60090E6CE /* vc1.storyboard */,
 				8DB31C1B2A6FF7330090E6CE /* ViewController3.swift */,
+				8DB31C232A6FF8F30090E6CE /* vc3.storyboard */,
 				8DB31C192A6FF7270090E6CE /* ViewController2.swift */,
 				8DB31C072A6FF61B0090E6CE /* ViewController.swift */,
 				8DB31C092A6FF61B0090E6CE /* Main.storyboard */,
